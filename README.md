@@ -2,8 +2,6 @@
 Welcome to the first session of the Tech Talk Series presented by Honeywell's Women Network. This github page is dedicated to kick start your first ML session. We will be running python scripts to recognize hand written digits.
 Handwritten Digit Recognition using OpenCV, sklearn and Python | [Video](https://www.youtube.com/watch?v=ur6JY2Hl-MM)
 
-**Check out the blog post [here](http://hanzratech.in/python/handwritten-digit-recognition-using-opencv-sklearn-and-python/) for complete notes on how the code works.**
-
 # Dependencies
 1. `cv2`
 2. `sklearn`
