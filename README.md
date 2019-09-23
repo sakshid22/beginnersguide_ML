@@ -27,7 +27,7 @@ This repository contains the following files-
 * Clone the repository - 
 ```bash
 cd 
-git clone https://github.com/bikz05/digit-recognition.git
+git clone https://github.com/sakshid22/beginnersguide_ML.git
 cd digit-recognition
 ```
 * The next step is to train the classifier. To do so run the script `generateClassifier.py`. It will produce the classifier named `digits_cls.pkl`. 
