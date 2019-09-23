@@ -3,7 +3,8 @@ Welcome to the first session of the Tech Talk Series presented by Honeywell's Wo
 Handwritten Digit Recognition using OpenCV, sklearn and Python | [Video](https://www.youtube.com/watch?v=ur6JY2Hl-MM)
 
 # Environment
-Python
+1. Python
+2. R
 
 # Dependencies
 1. `cv2`
