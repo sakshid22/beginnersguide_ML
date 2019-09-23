@@ -1,6 +1,6 @@
 # A Beginner's Guide to Machine Learning 
 Welcome to the first session of the Tech Talk Series presented by Honeywell's Women Network. This github page is dedicated to kick start your first ML session. We will be running python scripts to recognize hand written digits.
-Handwritten Digit Recognition will be done using OpenCV, sklearn and Python | [Video](https://www.youtube.com/watch?v=ur6JY2Hl-MM)
+Handwritten Digit Recognition will be done using OpenCV, sklearn and Python
 
 # Environment
 1. Python
